@@ -1,0 +1,15 @@
+# config.toml
+# Globally for all pages:
+[params]
+read_more_copy = "Read more about this entry"
+
+# Just for french
+[languages.fr]
+name = "Français"
+weight = 2
+
+[languages.fr.params]
+read_more_copy = "En savoir plus à ce sujet"
+
+[params]
+  body_classes = "avenir bg-near-"

@@ -13,3 +13,5 @@ read_more_copy = "En savoir plus à ce sujet"
 
 [params]
   body_classes = "avenir bg-near-"
+
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
